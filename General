@@ -4,3 +4,5 @@ color : red
 float: right
 border-radius : 2px
 background-image 
+padding
+margin
