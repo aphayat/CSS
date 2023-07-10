@@ -1,1 +1,6 @@
 border : 4px solid red
+background : blue
+color : red
+float: right
+border-radius : 2px
+background-image 
